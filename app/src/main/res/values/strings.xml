@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bigger Number</string>
+    <string name="point">Points: 0</string>
+</resources>
